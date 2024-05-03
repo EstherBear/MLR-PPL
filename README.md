@@ -20,7 +20,15 @@ vim scripts/Noisy.sh
 
 ## Citation
 ```
-Coming soon.
+@ARTICLE{Pu2024MLR-PPL,
+  author={Pu, Tao and Lao, Qianru and Wu, Hefeng and Chen, Tianshui and Tian, Ling and Liu, Jie and Lin, Liang},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Category-Adaptive Label Discovery and Noise Rejection for Multi-label Recognition with Partial Positive Labels}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TMM.2024.3395901}}
 ```
 
 ## Contributors
